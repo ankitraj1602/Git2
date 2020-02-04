@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Log.i("tag","msg");
         Log.i("branch","first branch created");
+        Log.i("remote","editing has been done from remote master class");
     }
 }
